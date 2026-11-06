@@ -1,0 +1,43 @@
+=== ANTES (base bruta) ===
+Linhas: 730 | Colunas: 8
+Tipos:
+  SKU             str
+  Dia             str
+  Mês             str
+  Ano             str
+  Tipo            str
+  Marca           str
+  Faturamento     str
+  Lucro           str
+Nulos: 0
+Faturamento total: (texto, não somável)
+Lucro total:       (texto, não somável)
+
+Tipos fora da lista esperada: nenhum
+Marcas fora da lista esperada: nenhuma
+Linhas com Mês diferente da data: 0
+Linhas com Ano diferente da data: 0
+SKUs distintos: 460
+SKUs associados a mais de um Tipo/Marca: 191
+Exemplo SKU 353: ['Camisa | Reserva', 'Sandália | CalopStore']
+Linhas com mesma Data + SKU (mantidas): 14
+Linhas 100% duplicadas: 0
+
+=== DEPOIS (base tratada) ===
+Linhas: 730 | Colunas: 9
+Tipos:
+  SKU             str
+  Data            datetime64[us]
+  Ano             int32
+  Número do Mês   int32
+  Nome do Mês     str
+  Tipo            str
+  Marca           str
+  Faturamento     float64
+  Lucro           float64
+Nulos: 0
+Faturamento total: 65827.61
+Lucro total:       28083.66
+
+Conferência OK: 730 linhas | Faturamento 65827.61 | Lucro 28083.66
+Arquivos gerados em dados/tratados/: vendas_tratado.csv, vendas_tratado.xlsx, sku_inconsistentes.csv, log_tratamento.txt

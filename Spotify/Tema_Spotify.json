@@ -1,0 +1,48 @@
+{
+  "name": "Spotify Escuro",
+  "dataColors": ["#1DB954", "#B3B3B3", "#1ED760", "#535353", "#169C46", "#FFFFFF", "#7CE3A1", "#2E77D0"],
+  "background": "#181818",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#1DB954",
+  "good": "#1DB954",
+  "neutral": "#B3B3B3",
+  "bad": "#E91429",
+  "textClasses": {
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#FFFFFF" },
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#FFFFFF" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#FFFFFF" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#B3B3B3" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": false, "transparency": 100 }],
+        "border": [{ "show": false }],
+        "dropShadow": [{ "show": false }],
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#FFFFFF" } } }],
+        "visualHeader": [{ "show": false }],
+        "categoryAxis": [{ "labelColor": { "solid": { "color": "#B3B3B3" } }, "titleColor": { "solid": { "color": "#B3B3B3" } }, "gridlineShow": false }],
+        "valueAxis": [{ "labelColor": { "solid": { "color": "#B3B3B3" } }, "titleColor": { "solid": { "color": "#B3B3B3" } }, "gridlineColor": { "solid": { "color": "#2A2A2A" } } }],
+        "legend": [{ "labelColor": { "solid": { "color": "#B3B3B3" } } }],
+        "labels": [{ "color": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "page": {
+      "*": {
+        "outspace": [{ "color": { "solid": { "color": "#050505" } } }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#FFFFFF" } }, "fontSize": 28 }],
+        "categoryLabels": [{ "show": true, "color": { "solid": { "color": "#E6E6E6" } }, "fontSize": 11 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "background": { "solid": { "color": "#181818" } } }],
+        "header": [{ "show": false }]
+      }
+    }
+  }
+}

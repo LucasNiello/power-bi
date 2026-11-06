@@ -1,0 +1,192 @@
+﻿SKU;Combinações Tipo | Marca;Quantidade
+SKU 122;"Camisa | CalopStore; Camisa | Reserva";2
+SKU 123;"Casaco | CalopStore; Chinelo | MarcoGPT";2
+SKU 128;"Boné | MarcoGPT; Sandália | CalopStore";2
+SKU 131;"Camisa | CalopStore; Camiseta | Reserva";2
+SKU 135;"Bota | CalopStore; Camiseta | CalopStore; Chinelo | MarcoGPT; Meia | MarcoGPT; Sapato | Reserva";5
+SKU 137;"Camiseta | Reserva; Casaco | MarcoGPT; Chinelo | MarcoGPT";3
+SKU 138;"Boné | MarcoGPT; Camisa | CalopStore";2
+SKU 139;"Boné | CalopStore; Camiseta | MarcoGPT";2
+SKU 141;"Camisa | MarcoGPT; Chinelo | MarcoGPT";2
+SKU 144;"Boné | CalopStore; Camiseta | Reserva; Chinelo | MarcoGPT; Sapato | MarcoGPT";4
+SKU 145;"Camiseta | Reserva; Meia | Reserva";2
+SKU 146;"Boné | CalopStore; Sapato | MarcoGPT";2
+SKU 151;"Chinelo | MarcoGPT; Sandália | CalopStore";2
+SKU 162;"Meia | CalopStore; Sapato | Reserva";2
+SKU 164;"Bota | CalopStore; Camisa | MarcoGPT; Chinelo | MarcoGPT; Meia | Reserva";4
+SKU 167;"Boné | CalopStore; Meia | CalopStore; Sandália | CalopStore";3
+SKU 172;"Casaco | CalopStore; Meia | MarcoGPT";2
+SKU 179;"Bota | CalopStore; Camisa | CalopStore; Chinelo | MarcoGPT";3
+SKU 194;"Bota | CalopStore; Casaco | Reserva";2
+SKU 195;"Casaco | Reserva; Meia | MarcoGPT";2
+SKU 226;"Camisa | Reserva; Camiseta | CalopStore";2
+SKU 228;"Camisa | CalopStore; Casaco | Reserva; Meia | Reserva";3
+SKU 231;"Casaco | CalopStore; Chinelo | MarcoGPT; Sapato | MarcoGPT";3
+SKU 233;"Boné | Reserva; Camiseta | MarcoGPT; Camiseta | Reserva";3
+SKU 236;"Chinelo | MarcoGPT; Meia | MarcoGPT; Sapato | Reserva";3
+SKU 241;"Camisa | CalopStore; Meia | CalopStore";2
+SKU 246;"Meia | CalopStore; Sandália | CalopStore";2
+SKU 249;"Boné | CalopStore; Bota | CalopStore";2
+SKU 255;"Bota | CalopStore; Camisa | Reserva; Sapato | MarcoGPT";3
+SKU 256;"Camiseta | MarcoGPT; Sapato | Reserva";2
+SKU 259;"Boné | Reserva; Meia | MarcoGPT";2
+SKU 262;"Camiseta | MarcoGPT; Meia | CalopStore";2
+SKU 263;"Camisa | CalopStore; Meia | Reserva";2
+SKU 267;"Chinelo | MarcoGPT; Sandália | CalopStore";2
+SKU 268;"Camiseta | CalopStore; Sandália | CalopStore";2
+SKU 269;"Bota | CalopStore; Chinelo | MarcoGPT";2
+SKU 272;"Bota | CalopStore; Bota | MarcoGPT; Camisa | Reserva";3
+SKU 275;"Bota | CalopStore; Sandália | CalopStore";2
+SKU 281;"Boné | Reserva; Casaco | Reserva";2
+SKU 282;"Boné | MarcoGPT; Boné | Reserva";2
+SKU 286;"Bota | CalopStore; Camisa | CalopStore";2
+SKU 287;"Bota | CalopStore; Meia | Reserva";2
+SKU 288;"Camiseta | CalopStore; Camiseta | MarcoGPT";2
+SKU 291;"Boné | MarcoGPT; Camisa | Reserva";2
+SKU 296;"Bota | CalopStore; Camisa | CalopStore; Chinelo | MarcoGPT";3
+SKU 316;"Camisa | CalopStore; Camiseta | Reserva; Casaco | Reserva";3
+SKU 328;"Boné | CalopStore; Casaco | CalopStore";2
+SKU 332;"Camisa | MarcoGPT; Meia | CalopStore";2
+SKU 334;"Meia | CalopStore; Meia | MarcoGPT; Sandália | CalopStore; Sapato | MarcoGPT";4
+SKU 335;"Boné | Reserva; Bota | MarcoGPT; Chinelo | MarcoGPT";3
+SKU 342;"Chinelo | MarcoGPT; Sapato | MarcoGPT";2
+SKU 343;"Boné | MarcoGPT; Meia | CalopStore; Sandália | CalopStore";3
+SKU 345;"Bota | CalopStore; Casaco | MarcoGPT; Chinelo | MarcoGPT";3
+SKU 351;"Camisa | Reserva; Camiseta | Reserva";2
+SKU 353;"Camisa | Reserva; Sandália | CalopStore";2
+SKU 362;"Chinelo | MarcoGPT; Sandália | CalopStore";2
+SKU 367;"Bota | CalopStore; Camisa | CalopStore; Casaco | Reserva; Sapato | MarcoGPT";4
+SKU 369;"Camisa | CalopStore; Chinelo | MarcoGPT";2
+SKU 374;"Sandália | CalopStore; Sapato | MarcoGPT";2
+SKU 375;"Camiseta | CalopStore; Chinelo | MarcoGPT";2
+SKU 377;"Camisa | CalopStore; Chinelo | MarcoGPT";2
+SKU 379;"Boné | Reserva; Camisa | CalopStore; Sapato | Reserva";3
+SKU 382;"Camiseta | CalopStore; Chinelo | MarcoGPT";2
+SKU 384;"Bota | CalopStore; Casaco | CalopStore; Sandália | CalopStore";3
+SKU 385;"Bota | CalopStore; Camisa | MarcoGPT";2
+SKU 395;"Camisa | CalopStore; Meia | CalopStore";2
+SKU 415;"Camisa | CalopStore; Sapato | MarcoGPT";2
+SKU 417;"Camisa | CalopStore; Sapato | MarcoGPT";2
+SKU 418;"Camisa | CalopStore; Camisa | MarcoGPT; Casaco | Reserva; Sapato | MarcoGPT";4
+SKU 422;"Camisa | Reserva; Casaco | MarcoGPT";2
+SKU 424;"Boné | MarcoGPT; Camisa | CalopStore";2
+SKU 429;"Boné | MarcoGPT; Camisa | CalopStore";2
+SKU 431;"Chinelo | MarcoGPT; Meia | CalopStore";2
+SKU 437;"Boné | Reserva; Camisa | CalopStore";2
+SKU 439;"Boné | MarcoGPT; Camiseta | CalopStore; Sandália | CalopStore";3
+SKU 455;"Boné | CalopStore; Chinelo | MarcoGPT";2
+SKU 459;"Camisa | Reserva; Camiseta | CalopStore; Casaco | CalopStore; Meia | MarcoGPT; Sandália | CalopStore; Sapato | MarcoGPT";6
+SKU 467;"Casaco | CalopStore; Sandália | CalopStore";2
+SKU 469;"Camisa | CalopStore; Casaco | MarcoGPT";2
+SKU 474;"Camisa | CalopStore; Meia | MarcoGPT";2
+SKU 477;"Boné | Reserva; Sandália | CalopStore";2
+SKU 478;"Camiseta | MarcoGPT; Meia | MarcoGPT";2
+SKU 479;"Camisa | CalopStore; Meia | CalopStore";2
+SKU 482;"Camiseta | CalopStore; Meia | Reserva";2
+SKU 491;"Camisa | CalopStore; Camiseta | CalopStore";2
+SKU 492;"Camiseta | CalopStore; Camiseta | MarcoGPT";2
+SKU 494;"Meia | MarcoGPT; Sandália | CalopStore; Sapato | Reserva";3
+SKU 497;"Camiseta | MarcoGPT; Camiseta | Reserva; Casaco | Reserva; Sandália | CalopStore";4
+SKU 499;"Boné | CalopStore; Camiseta | CalopStore";2
+SKU 512;"Camisa | Reserva; Chinelo | MarcoGPT";2
+SKU 513;"Casaco | CalopStore; Meia | Reserva";2
+SKU 516;"Bota | CalopStore; Chinelo | MarcoGPT";2
+SKU 523;"Boné | Reserva; Camiseta | MarcoGPT; Chinelo | MarcoGPT";3
+SKU 524;"Camisa | CalopStore; Chinelo | MarcoGPT";2
+SKU 526;"Chinelo | MarcoGPT; Meia | CalopStore";2
+SKU 529;"Boné | CalopStore; Bota | MarcoGPT; Camisa | Reserva; Casaco | MarcoGPT";4
+SKU 536;"Boné | Reserva; Camisa | CalopStore";2
+SKU 543;"Casaco | Reserva; Sapato | MarcoGPT";2
+SKU 544;"Camiseta | CalopStore; Casaco | CalopStore; Sapato | Reserva";3
+SKU 545;"Camiseta | Reserva; Sapato | MarcoGPT";2
+SKU 547;"Bota | MarcoGPT; Sandália | CalopStore";2
+SKU 549;"Camisa | CalopStore; Sandália | CalopStore";2
+SKU 556;"Camisa | MarcoGPT; Casaco | Reserva";2
+SKU 557;"Camiseta | Reserva; Chinelo | MarcoGPT";2
+SKU 559;"Casaco | CalopStore; Meia | CalopStore";2
+SKU 566;"Camisa | CalopStore; Sapato | Reserva";2
+SKU 567;"Casaco | Reserva; Sandália | CalopStore";2
+SKU 568;"Bota | CalopStore; Meia | MarcoGPT";2
+SKU 573;"Bota | MarcoGPT; Chinelo | MarcoGPT";2
+SKU 581;"Camisa | CalopStore; Casaco | MarcoGPT";2
+SKU 586;"Bota | CalopStore; Camisa | Reserva";2
+SKU 619;"Boné | CalopStore; Camisa | CalopStore; Meia | MarcoGPT";3
+SKU 628;"Bota | CalopStore; Camisa | CalopStore";2
+SKU 629;"Casaco | CalopStore; Meia | CalopStore";2
+SKU 633;"Boné | CalopStore; Meia | MarcoGPT; Sapato | MarcoGPT";3
+SKU 635;"Meia | CalopStore; Sapato | MarcoGPT";2
+SKU 636;"Bota | CalopStore; Camisa | CalopStore; Casaco | MarcoGPT";3
+SKU 639;"Bota | CalopStore; Camiseta | Reserva; Casaco | Reserva";3
+SKU 645;"Camiseta | Reserva; Chinelo | MarcoGPT";2
+SKU 649;"Camisa | CalopStore; Camisa | MarcoGPT";2
+SKU 655;"Camisa | CalopStore; Camisa | MarcoGPT; Meia | Reserva";3
+SKU 658;"Camisa | MarcoGPT; Meia | MarcoGPT";2
+SKU 661;"Camiseta | MarcoGPT; Casaco | CalopStore";2
+SKU 663;"Chinelo | MarcoGPT; Sandália | CalopStore";2
+SKU 664;"Boné | MarcoGPT; Meia | Reserva; Sapato | MarcoGPT";3
+SKU 666;"Bota | MarcoGPT; Camisa | Reserva";2
+SKU 669;"Bota | MarcoGPT; Camiseta | MarcoGPT; Meia | Reserva";3
+SKU 681;"Boné | Reserva; Sapato | MarcoGPT";2
+SKU 682;"Bota | CalopStore; Chinelo | MarcoGPT";2
+SKU 683;"Camiseta | Reserva; Chinelo | MarcoGPT; Sapato | Reserva";3
+SKU 696;"Camiseta | Reserva; Sapato | MarcoGPT";2
+SKU 698;"Bota | CalopStore; Sapato | Reserva";2
+SKU 699;"Camisa | Reserva; Chinelo | MarcoGPT";2
+SKU 711;"Bota | CalopStore; Camisa | Reserva; Chinelo | MarcoGPT";3
+SKU 717;"Boné | MarcoGPT; Chinelo | MarcoGPT";2
+SKU 721;"Camisa | MarcoGPT; Casaco | Reserva";2
+SKU 725;"Casaco | MarcoGPT; Sapato | MarcoGPT";2
+SKU 729;"Chinelo | MarcoGPT; Meia | MarcoGPT";2
+SKU 731;"Boné | Reserva; Bota | MarcoGPT";2
+SKU 732;"Meia | MarcoGPT; Sandália | CalopStore";2
+SKU 733;"Camisa | CalopStore; Chinelo | MarcoGPT";2
+SKU 736;"Camisa | MarcoGPT; Camiseta | Reserva";2
+SKU 737;"Camisa | CalopStore; Camisa | Reserva; Meia | Reserva";3
+SKU 738;"Camisa | CalopStore; Casaco | Reserva";2
+SKU 756;"Camisa | CalopStore; Sapato | MarcoGPT";2
+SKU 757;"Bota | MarcoGPT; Casaco | Reserva";2
+SKU 759;"Boné | Reserva; Camiseta | CalopStore";2
+SKU 761;"Camisa | CalopStore; Casaco | CalopStore; Chinelo | MarcoGPT; Meia | MarcoGPT; Sapato | Reserva";5
+SKU 763;"Camiseta | MarcoGPT; Casaco | Reserva";2
+SKU 767;"Camisa | CalopStore; Camisa | Reserva";2
+SKU 768;"Camiseta | CalopStore; Sapato | MarcoGPT";2
+SKU 773;"Bota | MarcoGPT; Sandália | CalopStore";2
+SKU 775;"Camisa | CalopStore; Camiseta | MarcoGPT";2
+SKU 778;"Boné | CalopStore; Casaco | MarcoGPT";2
+SKU 784;"Bota | MarcoGPT; Sapato | MarcoGPT";2
+SKU 794;"Bota | CalopStore; Sapato | MarcoGPT";2
+SKU 797;"Boné | MarcoGPT; Camisa | CalopStore; Camiseta | CalopStore";3
+SKU 811;"Camisa | Reserva; Meia | Reserva";2
+SKU 817;"Boné | MarcoGPT; Bota | MarcoGPT";2
+SKU 826;"Camiseta | Reserva; Sandália | CalopStore";2
+SKU 829;"Camisa | MarcoGPT; Sapato | Reserva";2
+SKU 831;"Camisa | CalopStore; Chinelo | MarcoGPT";2
+SKU 836;"Camiseta | Reserva; Sapato | Reserva";2
+SKU 854;"Camisa | CalopStore; Camisa | Reserva";2
+SKU 872;"Boné | CalopStore; Sapato | MarcoGPT";2
+SKU 873;"Casaco | CalopStore; Meia | MarcoGPT";2
+SKU 879;"Boné | MarcoGPT; Casaco | Reserva";2
+SKU 881;"Bota | MarcoGPT; Meia | CalopStore; Sandália | CalopStore";3
+SKU 888;"Bota | MarcoGPT; Sapato | MarcoGPT";2
+SKU 897;"Camisa | MarcoGPT; Camiseta | CalopStore";2
+SKU 898;"Camisa | CalopStore; Camiseta | MarcoGPT";2
+SKU 921;"Casaco | CalopStore; Sandália | CalopStore";2
+SKU 927;"Boné | MarcoGPT; Casaco | MarcoGPT";2
+SKU 931;"Boné | MarcoGPT; Casaco | MarcoGPT";2
+SKU 932;"Bota | MarcoGPT; Camisa | CalopStore";2
+SKU 935;"Camisa | CalopStore; Casaco | Reserva; Chinelo | MarcoGPT; Sandália | CalopStore; Sapato | MarcoGPT";5
+SKU 936;"Casaco | CalopStore; Meia | Reserva";2
+SKU 945;"Bota | CalopStore; Camisa | Reserva";2
+SKU 947;"Camiseta | Reserva; Casaco | CalopStore";2
+SKU 951;"Boné | CalopStore; Camisa | Reserva";2
+SKU 954;"Camiseta | Reserva; Casaco | MarcoGPT";2
+SKU 961;"Boné | MarcoGPT; Sapato | MarcoGPT";2
+SKU 963;"Camisa | CalopStore; Casaco | CalopStore; Chinelo | MarcoGPT";3
+SKU 968;"Bota | MarcoGPT; Casaco | Reserva";2
+SKU 972;"Camisa | CalopStore; Camiseta | Reserva";2
+SKU 982;"Casaco | CalopStore; Casaco | MarcoGPT; Sandália | CalopStore";3
+SKU 984;"Boné | MarcoGPT; Camisa | CalopStore";2
+SKU 986;"Camiseta | CalopStore; Casaco | MarcoGPT";2
+SKU 994;"Boné | MarcoGPT; Bota | CalopStore";2
+SKU 996;"Camiseta | Reserva; Casaco | Reserva";2
+SKU 999;"Bota | CalopStore; Camisa | CalopStore; Sapato | MarcoGPT";3

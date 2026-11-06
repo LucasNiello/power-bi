@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# Datasets brutos do Spotify (Kaggle) - grandes demais para o GitHub
+Spotify/*.zip
+Spotify/Spotify Dataset 1921-2020/
+Spotify/Spotify Tracks Dataset/
+Spotify/Spotify_1Million_Tracks/
+Spotify/Top Spotify Songs in 73 Countries (Daily Updated)/
